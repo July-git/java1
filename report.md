@@ -15,7 +15,7 @@
 В процессе тестирования использовались следующие артефакты*:
 * [исходный код программиста](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
 
-В качестве тестовых данных использовались [данные] (https://www.freeformatter.com/credit-card-number-generator-validator.html#validate):
+В качестве тестовых данных использовались [данные](https://www.freeformatter.com/credit-card-number-generator-validator.html#validate):
 * VISA<4916567726651741>-result is OK
 * MasterCard<5468445907236963>-result is OK
 * InstaPayment<6391621884328722>-result is OK
