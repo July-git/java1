@@ -7,7 +7,7 @@
 На тестирование затрачено 8 часов
 
 В результате тестирования выявлены следующие дефекты:
-* [bug report](https://github.com/July-git/java1/issues)
+* [Система не принимает валидные номена банковских катр American Express (AMEX)](https://github.com/July-git/java1/issues)
 
 
 ## Описание процесса тестирования
