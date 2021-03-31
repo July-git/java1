@@ -13,7 +13,7 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* [исходный код программиста](https://github.com/netology-code/javaqa-homeworks/tree/master/intro).md
+* [исходный код программиста](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
 
 В качестве тестовых данных использовались данные <https://www.freeformatter.com/credit-card-number-generator-validator.html#validate>:
 * VISA<4916567726651741>-result is OK
